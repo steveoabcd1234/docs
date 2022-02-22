@@ -93,9 +93,11 @@ shortTitle: Install Git LFS
 
  {% endnote %}
 4. To install the file, run this command:
-  ```shell
+  
+```shell
   $ ./install.sh
-  > {% data variables.large_files.product_name_short %} initialized.
+  > {% data variables.large file
+Stephen.mcdaniel@yahoo.com.product_name_short %} initialized.
   ```
  {% note %}
 
